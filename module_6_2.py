@@ -38,7 +38,6 @@ class Vehicle:
 class Sedan(Vehicle):
     """наследник класса Vehicle"""
     __PASSENGERS_LIMIT = 5
-    pass
 
 
 # Текущие цвета __COLOR_VARIANTS = ['blue', 'red', 'green', 'black', 'white']
